@@ -1,0 +1,2 @@
+# Hyper-Low-Qubit-QFT-Proof-of-Concept-with-Simulated-Chirp-on-Simulated-Qskit
+Trust me you gotta simulate the quantum computer first and keep the data window small. IBM has tools for you to simulate qskit before running things on real qbits. A chirp is an excellent candidate for Thing To Look At with actual QFT at low Qbits. We use a simulated chirp to help test how the QFT separates the signal. 
